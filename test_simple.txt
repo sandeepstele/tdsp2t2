@@ -1,0 +1,7 @@
+Analyze the dataset and answer these questions:
+
+1. How many rows are in the dataset?
+2. What are the column names?
+3. What is the data type of each column?
+4. Are there any missing values?
+5. Show a basic summary of the data
